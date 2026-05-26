@@ -53,6 +53,12 @@ export default function App() {
     phone: "",
     email: "",
     plate: "",
+
+    identityNumber: "",
+licenseNumber: "",
+specialLicense: "",
+taxNumber: "",
+
     freeNowEmail: "",
     freeNowPassword: "",
     boltEmail: "",
